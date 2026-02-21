@@ -1,1 +1,13 @@
-check1
+check2 : 
+PS C:\Users\Utsav Singh\Desktop\testRepoClone> git clone https://github.com/UtsavSingh315/testDt.git
+Cloning into 'testDt'...
+remote: Enumerating objects: 8, done.
+remote: Counting objects: 100% (8/8), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 8 (delta 0), reused 8 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (8/8), done.
+PS C:\Users\Utsav Singh\Desktop\testRepoClone> cd .\testDt\
+PS C:\Users\Utsav Singh\Desktop\testRepoClone\testDt> devtrace init hooks
+Set git core.hooksPath to .devtrace/hooks
+All hooks in .devtrace/hooks are now active!
+PS C:\Users\Utsav Singh\Desktop\testRepoClone\testDt>
